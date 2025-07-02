@@ -15,7 +15,7 @@ const AboutMe = () => {
         start: "top 50%",
         end: "top 20%",
         toggleActions: "play none none none",
-        markers: true,
+        // markers: true,
         scrub: 1.5,                
       },
     });
